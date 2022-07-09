@@ -29,7 +29,7 @@ app.use(passport.session());
 
 // SET UPS
 //Persist to mongodb
-mongoose.connect("mongodb+srv://admin-erin:9fCI3XYStnn3p3sA@cluster0.vcdx1.mongodb.net/userDB");
+mongoose.connect("mongodb://localhost:3000/userDB"); //security update: show local host
 
 const userSchema = new mongoose.Schema ({
   email: String,
