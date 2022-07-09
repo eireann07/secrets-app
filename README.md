@@ -1,2 +1,6 @@
 # Secrets Web App
-Whisper App clone built with EJS/JS, Express with Node, MongoDB, and Google OAuth
+Simplfied Whisper App clone, deployed [here](https://quiet-wave-88262.herokuapp.com/) with Heroku:
+- Front-end: EJS/JS, Bootstrap
+- Back-end: Express with Node.js, MongoDB
+- Other: Authentication with Google OAuth
+
