@@ -1,0 +1,37 @@
+
+body {
+  background-color: #E8ECEF;
+  color: #1B2430
+}
+
+.btn-dark{
+  background-color: #1B2430;
+}
+
+.btn-dark:hover{
+  background-color: #51557E;
+}
+
+.btn-light{
+  background-color: #C9BBCF;
+}
+
+.btn-light:hover{
+  background-color: #D6D5A8;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.fa-key{
+  color: #51557E;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #D6D5A8;
+  background-color: #1B2430;
+}
