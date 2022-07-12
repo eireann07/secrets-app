@@ -1,5 +1,5 @@
 # Secrets Web App
-Simplfied Whisper App clone, deployed [here](https://quiet-wave-88262.herokuapp.com/) with Heroku:
+*Simplfied Whisper App clone, deployed [here](https://quiet-wave-88262.herokuapp.com/) with Heroku. Users can log in with email or Google to create an account to view others' secrets and anonymously submit one secret of their own.*
 - Front-end: EJS/JS, Bootstrap
 - Back-end: Express with Node.js, MongoDB
 - Other: Authentication with Google OAuth
